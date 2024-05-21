@@ -1,0 +1,366 @@
+﻿From: South St x FDR Dr S
+To: Brooklyn Brg x Brooklyn Bridge
+South St
+South St
+South St
+Adm George Dewey
+Adm George Dewey
+Adm George Dewey
+Adm George Dewey
+State St
+State St
+State St
+Bridge St
+Bridge St
+Broad St
+Broad St
+S William St
+S William St
+William St
+William St
+William St
+William St
+William St
+William St
+William St
+William St
+William St
+William St
+Ann St
+Gold St
+Gold St
+Gold St
+Gold St
+
+Frankfort St
+Frankfort St
+Rose St
+Brooklyn Brg
+Brooklyn Brg
+Brooklyn Brg
+Brooklyn Brg
+Total cost: 819,1271965225808
+38,40.70115, -74.01401,triangle,,R,,,
+37,40.70113, -74.01395,triangle,,R,,,
+36,40.70112, -74.0139,triangle,,R,,,
+35,40.70112, -74.01386,triangle,,R,,,
+34,40.70143, -74.01392,triangle,,R,,,
+33,40.70209, -74.01399,triangle,,R,,,
+32,40.70224, -74.01399,triangle,,R,,,
+31,40.70244, -74.01384,triangle,,R,,,
+30,40.70263, -74.0141,triangle,,R,,,
+29,40.70325, -74.01445,triangle,,R,,,
+28,40.70361, -74.01441,triangle,,R,,,
+27,40.70359, -74.01313,triangle,,R,,,
+26,40.70358, -74.01157,triangle,,R,,,
+25,40.70403, -74.01157,triangle,,R,,,
+24,40.70424, -74.01158,triangle,,R,,,
+23,40.70475, -74.01034,triangle,,R,,,
+22,40.70514, -74.01003,triangle,,R,,,
+21,40.7058, -74.00988,triangle,,R,,,
+20,40.70639, -74.0095,triangle,,R,,,
+19,40.70694, -74.00901,triangle,,R,,,
+18,40.70733, -74.00863,triangle,,R,,,
+17,40.7077, -74.00827,triangle,,R,,,
+16,40.70798, -74.00803,triangle,,R,,,
+15,40.70831, -74.00768,triangle,,R,,,
+14,40.70872, -74.00727,triangle,,R,,,
+13,40.70956, -74.0064,triangle,,R,,,
+12,40.70991, -74.00607,triangle,,R,,,
+11,40.70946, -74.00507,triangle,,R,,,
+10,40.70967, -74.00483,triangle,,R,,,
+9,40.71017, -74.00426,triangle,,R,,,
+8,40.71034, -74.00408,triangle,,R,,,
+7,40.7105, -74.0039,triangle,,R,,,
+6,40.71074, -74.00349,triangle,,R,,,
+5,40.7108, -74.00328,triangle,,R,,,
+4,40.71108, -74.00349,triangle,,R,,,
+3,40.71119, -74.0035,triangle,,R,,,
+2,40.71121, -74.00337,triangle,,R,,,
+1,40.71118, -74.00317,triangle,,R,,,
+0,40.71053, -74.00234,triangle,,R,,,
+South St
+South St
+South St
+Adm George Dewey
+Adm George Dewey
+Adm George Dewey
+Adm George Dewey
+State St
+State St
+Water St
+Water St
+Water St
+Water St
+Broad St
+Broad St
+Broad St
+Broad St
+S William St
+S William St
+William St
+William St
+William St
+William St
+William St
+William St
+William St
+William St
+William St
+William St
+Ann St
+Gold St
+Gold St
+Gold St
+Gold St
+
+Frankfort St
+Frankfort St
+Frankfort St
+Frankfort St
+Frankfort St
+Frankfort St
+Pearl St
+Pearl St
+Brooklyn Brg
+Brooklyn Brg
+Total cost: 819,5704399657723
+44,40.70115, -74.01401,triangle,,R,,,
+43,40.70113, -74.01395,triangle,,R,,,
+42,40.70112, -74.0139,triangle,,R,,,
+41,40.70112, -74.01386,triangle,,R,,,
+40,40.70143, -74.01392,triangle,,R,,,
+39,40.70209, -74.01399,triangle,,R,,,
+38,40.70224, -74.01399,triangle,,R,,,
+37,40.70244, -74.01384,triangle,,R,,,
+36,40.70238, -74.0137,triangle,,R,,,
+35,40.70243, -74.01285,triangle,,R,,,
+34,40.70265, -74.01238,triangle,,R,,,
+33,40.70278, -74.01209,triangle,,R,,,
+32,40.70283, -74.01192,triangle,,R,,,
+31,40.70295, -74.0115,triangle,,R,,,
+30,40.70346, -74.01157,triangle,,R,,,
+29,40.70358, -74.01157,triangle,,R,,,
+28,40.70403, -74.01157,triangle,,R,,,
+27,40.70424, -74.01158,triangle,,R,,,
+26,40.70475, -74.01034,triangle,,R,,,
+25,40.70514, -74.01003,triangle,,R,,,
+24,40.7058, -74.00988,triangle,,R,,,
+23,40.70639, -74.0095,triangle,,R,,,
+22,40.70694, -74.00901,triangle,,R,,,
+21,40.70733, -74.00863,triangle,,R,,,
+20,40.7077, -74.00827,triangle,,R,,,
+19,40.70798, -74.00803,triangle,,R,,,
+18,40.70831, -74.00768,triangle,,R,,,
+17,40.70872, -74.00727,triangle,,R,,,
+16,40.70956, -74.0064,triangle,,R,,,
+15,40.70991, -74.00607,triangle,,R,,,
+14,40.70946, -74.00507,triangle,,R,,,
+13,40.70967, -74.00483,triangle,,R,,,
+12,40.71017, -74.00426,triangle,,R,,,
+11,40.71034, -74.00408,triangle,,R,,,
+10,40.7105, -74.0039,triangle,,R,,,
+9,40.71074, -74.00349,triangle,,R,,,
+8,40.7108, -74.00328,triangle,,R,,,
+7,40.71067, -74.00319,triangle,,R,,,
+6,40.7106, -74.00306,triangle,,R,,,
+5,40.7101, -74.00245,triangle,,R,,,
+4,40.70981, -74.00209,triangle,,R,,,
+3,40.70946, -74.00169,triangle,,R,,,
+2,40.7096, -74.00156,triangle,,R,,,
+1,40.70972, -74.00146,triangle,,R,,,
+0,40.70997, -74.00163,triangle,,R,,,
+From: Broadway x Park Row x Vesey St x Ann St
+To: Brooklyn Bridge
+Ann St
+Ann St
+Ann St
+Ann St
+Gold St
+Gold St
+Gold St
+Gold St
+
+Frankfort St
+Frankfort St
+Rose St
+Brooklyn Brg
+Rose St
+Brooklyn Bridge
+Total cost: 243,22633667710846
+14,40.7114, -74.0086,triangle,,R,,,
+13,40.71082, -74.00776,triangle,,R,,,
+12,40.71058, -74.00736,triangle,,R,,,
+11,40.70991, -74.00607,triangle,,R,,,
+10,40.70946, -74.00507,triangle,,R,,,
+9,40.70967, -74.00483,triangle,,R,,,
+8,40.71017, -74.00426,triangle,,R,,,
+7,40.71034, -74.00408,triangle,,R,,,
+6,40.7105, -74.0039,triangle,,R,,,
+5,40.71074, -74.00349,triangle,,R,,,
+4,40.7108, -74.00328,triangle,,R,,,
+3,40.71108, -74.00349,triangle,,R,,,
+2,40.71119, -74.0035,triangle,,R,,,
+1,40.71121, -74.00337,triangle,,R,,,
+0,40.71132, -74.0032,triangle,,R,,,
+From: Greenwich St x Chambers St
+To: Brooklyn Brg x 
+Greenwich St
+Greenwich St
+Greenwich St
+Park Pl
+Park Pl
+Park Pl
+Park Pl
+Broadway
+Broadway
+Ann St
+Ann St
+Ann St
+Ann St
+Gold St
+Gold St
+Gold St
+Gold St
+
+Frankfort St
+Frankfort St
+Frankfort St
+Frankfort St
+Frankfort St
+Frankfort St
+Pearl St
+Pearl St
+Brooklyn Brg
+Total cost: 642,4609383427913
+26,40.71628, -74.01093,triangle,,R,,,
+25,40.7156, -74.01114,triangle,,R,,,
+24,40.7149, -74.01136,triangle,,R,,,
+23,40.71429, -74.01152,triangle,,R,,,
+22,40.71385, -74.01057,triangle,,R,,,
+21,40.71326, -74.00926,triangle,,R,,,
+20,40.71291, -74.00849,triangle,,R,,,
+19,40.71253, -74.00767,triangle,,R,,,
+18,40.71199, -74.0081,triangle,,R,,,
+17,40.7114, -74.0086,triangle,,R,,,
+16,40.71082, -74.00776,triangle,,R,,,
+15,40.71058, -74.00736,triangle,,R,,,
+14,40.70991, -74.00607,triangle,,R,,,
+13,40.70946, -74.00507,triangle,,R,,,
+12,40.70967, -74.00483,triangle,,R,,,
+11,40.71017, -74.00426,triangle,,R,,,
+10,40.71034, -74.00408,triangle,,R,,,
+9,40.7105, -74.0039,triangle,,R,,,
+8,40.71074, -74.00349,triangle,,R,,,
+7,40.7108, -74.00328,triangle,,R,,,
+6,40.71067, -74.00319,triangle,,R,,,
+5,40.7106, -74.00306,triangle,,R,,,
+4,40.7101, -74.00245,triangle,,R,,,
+3,40.70981, -74.00209,triangle,,R,,,
+2,40.70946, -74.00169,triangle,,R,,,
+1,40.7096, -74.00156,triangle,,R,,,
+0,40.70972, -74.00146,triangle,,R,,,
+Chambers St
+Chambers St
+Chambers St
+Chambers St
+Chambers St
+Chambers St
+Chambers St
+Centre St
+Park Row
+Park Row
+Brooklyn Brg
+Brooklyn Brg
+Brooklyn Brg
+Brooklyn Brg
+Brooklyn Brg
+Brooklyn Brg
+Rose St
+Brooklyn Bridge
+Brooklyn Bridge
+Brooklyn Bridge
+
+
+
+Pearl St
+Brooklyn Brg
+Total cost: 650,7676428264708
+24,40.71628, -74.01093,triangle,,R,,,
+23,40.71551, -74.00921,triangle,,R,,,
+22,40.71493, -74.00796,triangle,,R,,,
+21,40.71417, -74.0063,triangle,,R,,,
+20,40.71391, -74.00576,triangle,,R,,,
+19,40.71348, -74.00482,triangle,,R,,,
+18,40.71328, -74.00439,triangle,,R,,,
+17,40.71313, -74.00406,triangle,,R,,,
+16,40.71301, -74.00421,triangle,,R,,,
+15,40.71283, -74.00441,triangle,,R,,,
+14,40.71247, -74.00482,triangle,,R,,,
+13,40.71239, -74.00482,triangle,,R,,,
+12,40.7118, -74.00425,triangle,,R,,,
+11,40.71181, -74.00409,triangle,,R,,,
+10,40.71154, -74.00381,triangle,,R,,,
+9,40.71119, -74.0035,triangle,,R,,,
+8,40.71121, -74.00337,triangle,,R,,,
+7,40.71132, -74.0032,triangle,,R,,,
+6,40.71144, -74.00329,triangle,,R,,,
+5,40.71171, -74.00326,triangle,,R,,,
+4,40.71161, -74.0027,triangle,,R,,,
+3,40.71088, -74.00232,triangle,,R,,,
+2,40.71008, -74.00139,triangle,,R,,,
+1,40.71003, -74.00123,triangle,,R,,,
+0,40.70972, -74.00146,triangle,,R,,,
+Chambers St
+Chambers St
+Chambers St
+Broadway
+Broadway
+Broadway
+Broadway
+Broadway
+Ann St
+Ann St
+Ann St
+Ann St
+Gold St
+Gold St
+Gold St
+Gold St
+
+Frankfort St
+Frankfort St
+Frankfort St
+Frankfort St
+Frankfort St
+Frankfort St
+Pearl St
+Pearl St
+Brooklyn Brg
+Total cost: 657,3057495901605
+25,40.71628, -74.01093,triangle,,R,,,
+24,40.71551, -74.00921,triangle,,R,,,
+23,40.71493, -74.00796,triangle,,R,,,
+22,40.71417, -74.0063,triangle,,R,,,
+21,40.71363, -74.00675,triangle,,R,,,
+20,40.71304, -74.00723,triangle,,R,,,
+19,40.71253, -74.00767,triangle,,R,,,
+18,40.71199, -74.0081,triangle,,R,,,
+17,40.7114, -74.0086,triangle,,R,,,
+16,40.71082, -74.00776,triangle,,R,,,
+15,40.71058, -74.00736,triangle,,R,,,
+14,40.70991, -74.00607,triangle,,R,,,
+13,40.70946, -74.00507,triangle,,R,,,
+12,40.70967, -74.00483,triangle,,R,,,
+11,40.71017, -74.00426,triangle,,R,,,
+10,40.71034, -74.00408,triangle,,R,,,
+9,40.7105, -74.0039,triangle,,R,,,
+8,40.71074, -74.00349,triangle,,R,,,
+7,40.7108, -74.00328,triangle,,R,,,
+6,40.71067, -74.00319,triangle,,R,,,
+5,40.7106, -74.00306,triangle,,R,,,
+4,40.7101, -74.00245,triangle,,R,,,
+3,40.70981, -74.00209,triangle,,R,,,
+2,40.70946, -74.00169,triangle,,R,,,
+1,40.7096, -74.00156,triangle,,R,,,
+0,40.70972, -74.00146,triangle,,R,,,

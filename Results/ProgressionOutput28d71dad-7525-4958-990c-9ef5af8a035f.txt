@@ -1,0 +1,3 @@
+﻿Light TH	2659	Hard TH	278	Risks	1516	avgTimeTillRik	203
+Light TH	2780	Hard TH	364	Risks	1615	avgTimeTillRik	207
+Light TH	2770	Hard TH	357	Risks	1528	avgTimeTillRik	208
